@@ -166,11 +166,6 @@ sand-dust-enhancement/
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 📞 Contact
-
-- **Author**: [Your Name]
-- **Email**: [your.email@example.com]
-- **GitHub**: [@yourusername]
 
 ## 🙏 Acknowledgments
 
